@@ -1,15 +1,4 @@
 @font-face {
-    font-family: 'D2Coding Nerd Font';
-    src: url('D2CodingNerdFontComplete-.eot');
-    src: url('D2CodingNerdFontComplete-.eot?#iefix') format('embedded-opentype'),
-        url('D2CodingNerdFontComplete-.woff2') format('woff2'),
-        url('D2CodingNerdFontComplete-.woff') format('woff'),
-        url('D2CodingNerdFontComplete-.svg#D2CodingNerdFontComplete-') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
     font-family: 'D2Codingligature Nerd Font';
     src: url('D2CodingligatureNerdFontComplete-.eot');
     src: url('D2CodingligatureNerdFontComplete-.eot?#iefix') format('embedded-opentype'),
